@@ -3,7 +3,7 @@ The app for the sixth Java laboratory contains code from the lab's slides: https
 
 The load and save method contain code from the following link: https://mkyong.com/swing/java-swing-jfilechooser-example/?fbclid=IwAR34U44rmB7SJS6A47XSablIstSVrwQ6SqfakqnG437MPIycH2u9KW_HXI0
 
-I completed te following optional tasks:
+I completed the following optional tasks:
 
 - Adding support for drawing multiple types of components. Creating a new panel, containing a list of available shapes: regular polygon, circle, rain drop and broken glass.  Adapting the configration panel according to the type of the selected shape.
 
